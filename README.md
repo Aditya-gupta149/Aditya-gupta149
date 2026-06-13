@@ -119,7 +119,7 @@ Interests:
 
 <p align="center">
 
-<a href="YOUR_LEETCODE_LINK">
+<a href="https://leetcode.com/u/Aditya_gupta149/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
@@ -229,7 +229,7 @@ https://www.linkedin.com/in/aditya-gupta-312830280?utm_source=share_via&utm_cont
 
 💻 **LeetCode**
 
-YOUR_LEETCODE_LINK
+https://leetcode.com/u/Aditya_gupta149/
 
 </div>
 
